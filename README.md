@@ -1,6 +1,7 @@
 # Designing-a-Robust-Web-Application-on-AWS-project
 This project demonstrates a complete AWS architecture setup for a scalable, secure, and highly available web application. It includes VPC design, EC2 deployments, load balancing, private networking, NAT gateways, PHP &amp; Apache setup, phpMyAdmin deployment, and RDS integration.
 📌 Project Overview
+<img width="1536" height="1024" alt="ChatGPT Image Nov 29, 2025, 07_28_07 PM" src="https://github.com/user-attachments/assets/f94d8ada-989e-4e1e-8bc0-d42f16be8a00" />
 
 This challenge focuses on building a 3-tier architecture on AWS:
 
